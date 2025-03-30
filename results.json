@@ -1,11 +1,26 @@
 [
     {
         "id": 0,
-        "title": "나무",
-        "tag": "나무",
-        "similar": "이쑤시개, 나무젓가락, 나무주걱",
-        "content": "무궁화 꽃이 피었습니다.",
+        "title": "휴대폰",
+        "tag": "폐휴대폰,배터리,폴더폰,스마트폰",
+        "similar": "폐휴대폰,배터리,폴더폰,스마트폰"",
+        "content": "무궁화 꽃이 피었습니다1",
         "img": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
-
-    }
+    },
+        {
+        "id": 1,
+        "title": "빨대",
+        "tag": "빨대",
+        "similar": "일회용 빨대",
+        "content": "무궁화 꽃이 피었습니다2",
+        "img": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+    },
+        {
+        "id": 2,
+        "title": "우유팩",
+        "tag": "종이팩",
+        "similar": "종이팩,밀크팩",
+        "content": "무궁화 꽃이 피었습니다3",
+        "img": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+    },
 ]
